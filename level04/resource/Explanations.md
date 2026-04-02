@@ -1,4 +1,4 @@
-1. ls renvoie un fichier perl
+1. ls renvoie un fichier perl creer par flag04
 2. ce fichier a une faille puisque il permet d'executer n'importe quel code a la suite du echo
 ```
 #!/usr/bin/perl
