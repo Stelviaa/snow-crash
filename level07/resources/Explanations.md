@@ -7,4 +7,4 @@ P'tite routine
 6. getenv = récup valuer d'une variable d'env, /bin/echo %s = affiche la valeur
 7. just avant /bin/echo %s -> LOGNAME, donc le binaire echo $LOGNAME
 8. Je sais qu'on peut lancer une commande avec echo en utilisant echo $(commande)
-9. export LOGNAME='$(getflag)' ./level07 -> gg
+9. export LOGNAME='$(getflag)' && ./level07 -> gg
