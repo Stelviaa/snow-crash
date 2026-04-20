@@ -11,4 +11,4 @@ for i in range(len(data)):
     if val > 0:
         result += chr(val)
 print result
-7. su flag09 result -> gg
+7. python /tmp/decoder.py -> take result and su flag09 result -> token -> gg
